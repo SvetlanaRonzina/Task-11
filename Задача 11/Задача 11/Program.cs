@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 
-namespace ex11
+namespace Задача_11
 {
     internal class Program
     {
